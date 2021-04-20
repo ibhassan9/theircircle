@@ -1,4 +1,4 @@
-# theircircle
+# TheirCircle
 
 TheirCircle is proud to bring your university experience online. Join now to access your campus feed, engage in student-run virtual clubs and discuss topics related to your enrolled courses.
 
@@ -11,4 +11,15 @@ Have an idea worth sharing to your class, club or campus? TheirCircle provides y
 
 Available for students/alumni from The University of Toronto, York University and Western University. More universities coming soon!
 
-![alt text](https://static.wixstatic.com/media/699baa_ed83b58ff5db491a8b82d1d6b95079d3~mv2.png/v1/fill/w_548,h_1082,al_c,q_90,usm_0.66_1.00_0.01/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020.webp)
+# iOS
+https://apps.apple.com/ca/app/theircircle/id1533559547#?platform=iphone
+
+# Android
+https://play.google.com/store/apps/details?id=com.schoolapp.unify
+
+# Web
+https://www.theircircleapp.com
+
+![alt text](https://static.wixstatic.com/media/699baa_f23cf39ca1454d5d9805e660249d07f7~mv2.png/v1/fill/w_600,h_1186,al_c,q_90,usm_0.66_1.00_0.01/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020.webp)
+
+
