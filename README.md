@@ -11,4 +11,4 @@ Have an idea worth sharing to your class, club or campus? TheirCircle provides y
 
 Available for students/alumni from The University of Toronto, York University and Western University. More universities coming soon!
 
-![alt text](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/87/58/33/8758338f-daed-cf26-87b8-f8cb653f10da/e25547ca-a372-49a9-839c-e88908dea70d_image1.jpeg/230x0w.jpg)
+![alt text](https://static.wixstatic.com/media/699baa_ed83b58ff5db491a8b82d1d6b95079d3~mv2.png/v1/fill/w_548,h_1082,al_c,q_90,usm_0.66_1.00_0.01/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020.webp)
